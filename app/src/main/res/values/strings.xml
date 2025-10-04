@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TSDMH_252_HML_7S21_P1P1</string>
+    <string name="t1p1">Calculadora</string>
+    <string name="pl1p1">Aqui el primer numero</string>
+    <string name="pl2p1">Aqui el segundo numero</string>
+    <string name="lbl1p1">Ingresa el primer numero</string>
+    <string name="lbl2p1">Ingresa el segundo numero</string>
+
+    <string name="btn1p1">Sumar</string>
+    <string name="btn2p1">Resta</string>
+    <string name="btn3p1">Divicion</string>
+    <string name="btn4p1">Multiplicacion</string>
+    <string name="btn51">potencia al cuadrado</string>
+    <string name="btn6p1">Potencia a la n</string>
+    <string name="btn7p1">Paiz cuadrada</string>
+</resources>
